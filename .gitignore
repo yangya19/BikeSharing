@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.DS_Store
+*201908-citibike-tripdata
 
 # C extensions
 *.so
